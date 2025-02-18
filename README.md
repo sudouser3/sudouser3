@@ -1,4 +1,7 @@
-## Hi there 👋
+## Currently undergoing independent study including but not limited to Networking, Cyber Security and Software Development. 
+## My goal is to delve into a role in Computer Security
+
+##Any and all constructive criticism is very much welcome. Thank you in advance.
 
 <!--
 **sudouser3/sudouser3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
